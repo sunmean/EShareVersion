@@ -1,5 +1,5 @@
 <span id = 'versionData'>data = {
-"appId" : "修复已知的问题",
+"appId" : "1、可绑定2张提现卡，并可选择银行卡提现\n2、购物车优化\n3、页面及部分功能优化",
 "version" : "1.1.3",
 "apiVersion" : "1.1.3",
 "versionCode" : "-1",
