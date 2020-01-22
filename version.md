@@ -6,7 +6,7 @@
 "domainPrefix" : "api.igxpt.com/app_ygx/public/",
 "onlineOldWebDomains":[],
 "onlineNewWebDomains":[],
-"isOpen" : "0",
+"isOpen" : "1",
 "isSwitchDomain" : "0",
 "isSwitchWebDomain" : "0",
 "isOpenHttpsSSL" : "1",
